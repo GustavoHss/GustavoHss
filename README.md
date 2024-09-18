@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">Programming Languages and Technical Skills</p>
+<p align="center">Programming Languages and Technical Skills</p>
 
 ###
 
